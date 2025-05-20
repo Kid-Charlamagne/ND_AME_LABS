@@ -1,0 +1,13 @@
+The Galactic empire requires vast amounts of energy to maintain peace and stability. Your mission is to design a Dyson sphere to harvest energy from a star. If you choose to accept this, email Professor Rumbach code word "Job 3:14", and you will do the following in place of the normal Independent Case Study.
+
+Design a Dyson sphere to completely encapsulate our sun. Do the following calculations:
+
+1) Based on the efficiency of the solar panels studied in lab, how many watts of power would the Dyson sphere output?
+
+2) What radius should the Dyson sphere be? Too small, and it will get too hot. Too large, and it will require too many solar panels, thus driving up the cost. You will need to research radiative heat transfer to answer this.
+
+3) Based on the radius you chose, how much would it cost to build? How many tons of silicon would you need to build it?
+
+4) What could a hyper-advanced civilization like the Galactic Empire use the energy output for? (Use you imagination, and be creative.)
+
+Summarize your calculations in a table.
